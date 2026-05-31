@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsrerify",
+        "uuid": 16568280,
+        "checksum": "06169i"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
